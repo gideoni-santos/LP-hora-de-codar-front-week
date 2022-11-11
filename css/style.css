@@ -1,3 +1,17 @@
-h1 {
-    font-family: Lato;
+/* Cabeçalho e Banner */
+#header {
+    min-height: 90vh;
+    background-image: url("../img/main_banner4.png");
+    background-size: cover;
+    background-position: center;
+    color: var(--primary-text-color);
+    margin-bottom: 2rem;
+    position: relative;
 }
+
+#brand {
+    background-color: var(--main-color);
+    padding: 1rem;
+}
+
+/* PAREI NO 1:10
